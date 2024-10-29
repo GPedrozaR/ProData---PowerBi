@@ -17,4 +17,4 @@ Este projeto foi desenvolvido para apresentar dados de forma clara e eficaz, uti
 
 1. **Clone o repositório** ou baixe os arquivos.
    ```bash
-   git clone https://github.com/GPedrozaR/ProData---PowerBi.git
+   git clone https://github.com/GPedrozaR/ProData_BigData.git
